@@ -1,0 +1,35 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ContentPage
+    xmlns="http://xamarin.com/schemas/2014/forms"
+    xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+    xmlns:d="http://xamarin.com/schemas/2014/forms/design"
+    xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+    mc:Ignorable="d"
+    xmlns:local="clr-namespace:LsTraining402"
+    x:Class="LsTraining402.MainPage">
+    <StackLayout>
+        <StackLayout.Margin>
+            <OnPlatform x:TypeArguments="Thickness">
+                <On Platform="iOS" Value="10,50,10,10" />
+                <On Platform="Android,UWP" Value="10,0,10,10" />
+            </OnPlatform>
+        </StackLayout.Margin>
+        <Image WidthRequest="40"
+               HeightRequest="40"
+               Source="{local:ImageResource LsTraining402.Images.logo.png}" />
+        <Label Text="Hello Forms!" />
+        <Label Text="Hello Xamarin!" x:Name="lbl01" />
+        <Button Text="ChangeButton" Clicked="ChangeButton_Clicked" />
+        <DatePicker />
+        <Entry x:Name="ety01"/>
+        <Button Text="CopyButton" Clicked="CopyButton_Clicked" />
+        <WebView Source="http://ls-style.co.jp/" HeightRequest="200" />
+        <Label Text="◆ListView" />
+        <Entry x:Name="ety02" />
+        <StackLayout Orientation="Horizontal">
+            <Button Text="AddBtn" Clicked="AddBtn_Clicked" />
+            <Button Text="ClearBtn" Clicked="ClearBtn_Clicked" />
+        </StackLayout>
+        <ListView x:Name="list01" />
+    </StackLayout>
+</ContentPage>

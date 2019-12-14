@@ -1,0 +1,13 @@
+/Users/shijo/Projects/LsTraining402/LsTraining402/bin/Debug/netstandard2.0/LsTraining402.deps.json
+/Users/shijo/Projects/LsTraining402/LsTraining402/bin/Debug/netstandard2.0/LsTraining402.dll
+/Users/shijo/Projects/LsTraining402/LsTraining402/bin/Debug/netstandard2.0/ref/LsTraining402.dll
+/Users/shijo/Projects/LsTraining402/LsTraining402/bin/Debug/netstandard2.0/LsTraining402.pdb
+/Users/shijo/Projects/LsTraining402/LsTraining402/obj/Debug/netstandard2.0/LsTraining402.csprojAssemblyReference.cache
+/Users/shijo/Projects/LsTraining402/LsTraining402/obj/Debug/netstandard2.0/App.xaml.g.cs
+/Users/shijo/Projects/LsTraining402/LsTraining402/obj/Debug/netstandard2.0/MainPage.xaml.g.cs
+/Users/shijo/Projects/LsTraining402/LsTraining402/obj/Debug/netstandard2.0/LsTraining402.AssemblyInfoInputs.cache
+/Users/shijo/Projects/LsTraining402/LsTraining402/obj/Debug/netstandard2.0/LsTraining402.AssemblyInfo.cs
+/Users/shijo/Projects/LsTraining402/LsTraining402/obj/Debug/netstandard2.0/XamlC.stamp
+/Users/shijo/Projects/LsTraining402/LsTraining402/obj/Debug/netstandard2.0/LsTraining402.dll
+/Users/shijo/Projects/LsTraining402/LsTraining402/obj/Debug/netstandard2.0/ref/LsTraining402.dll
+/Users/shijo/Projects/LsTraining402/LsTraining402/obj/Debug/netstandard2.0/LsTraining402.pdb

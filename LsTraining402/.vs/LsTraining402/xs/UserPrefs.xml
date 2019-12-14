@@ -1,0 +1,33 @@
+﻿<Properties StartupConfiguration="{15E115A1-3C3F-4E65-BB4C-C3D3CCF52137}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="LsTraining402/MainPage.xaml">
+    <Files>
+      <File FileName="LsTraining402/MainPage.xaml.cs" Line="75" Column="16" />
+      <File FileName="LsTraining402/MainPage.xaml" Line="7" Column="21" />
+      <File FileName="LsTraining402/ImageResourceExtension.cs" Line="16" Column="53" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="LsTraining402" expanded="True">
+            <Node name="LsTraining402" expanded="True">
+              <Node name="Images" expanded="True" />
+              <Node name="MainPage.xaml" expanded="True" selected="True" />
+            </Node>
+            <Node name="LsTraining402.iOS" expanded="True" />
+          </Node>
+        </State>
+      </Pad>
+      <Pad Id="MonoDevelop.Debugger.WatchPad">
+        <State />
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.LsTraining402.Android FirstBuild="True" PreferredExecutionTarget="Android.SelectDevice" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.LsTraining402.iOS PreferredExecutionTarget="MonoDevelop.IPhone.IPhoneSimulatorTarget.22FB5B8A-8F8F-40CE-B2AA-0E6938165A65" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
