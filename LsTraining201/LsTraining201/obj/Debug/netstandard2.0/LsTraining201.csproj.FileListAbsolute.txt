@@ -1,0 +1,12 @@
+/Users/shijo/Projects/LsTraining201/LsTraining201/bin/Debug/netstandard2.0/LsTraining201.deps.json
+/Users/shijo/Projects/LsTraining201/LsTraining201/bin/Debug/netstandard2.0/LsTraining201.dll
+/Users/shijo/Projects/LsTraining201/LsTraining201/bin/Debug/netstandard2.0/ref/LsTraining201.dll
+/Users/shijo/Projects/LsTraining201/LsTraining201/bin/Debug/netstandard2.0/LsTraining201.pdb
+/Users/shijo/Projects/LsTraining201/LsTraining201/obj/Debug/netstandard2.0/App.xaml.g.cs
+/Users/shijo/Projects/LsTraining201/LsTraining201/obj/Debug/netstandard2.0/MainPage.xaml.g.cs
+/Users/shijo/Projects/LsTraining201/LsTraining201/obj/Debug/netstandard2.0/LsTraining201.AssemblyInfoInputs.cache
+/Users/shijo/Projects/LsTraining201/LsTraining201/obj/Debug/netstandard2.0/LsTraining201.AssemblyInfo.cs
+/Users/shijo/Projects/LsTraining201/LsTraining201/obj/Debug/netstandard2.0/XamlC.stamp
+/Users/shijo/Projects/LsTraining201/LsTraining201/obj/Debug/netstandard2.0/LsTraining201.dll
+/Users/shijo/Projects/LsTraining201/LsTraining201/obj/Debug/netstandard2.0/ref/LsTraining201.dll
+/Users/shijo/Projects/LsTraining201/LsTraining201/obj/Debug/netstandard2.0/LsTraining201.pdb

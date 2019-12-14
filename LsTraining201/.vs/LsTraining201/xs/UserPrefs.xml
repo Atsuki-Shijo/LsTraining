@@ -1,0 +1,33 @@
+﻿<Properties StartupConfiguration="{4B4984EF-9E1D-474F-8226-0EA62CF633DA}|Default">
+  <MonoDevelop.Ide.ItemProperties.LsTraining201.Android FirstBuild="True" PreferredExecutionTarget="Android.SelectDevice" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="LsTraining201/MainPage.xaml">
+    <Files>
+      <File FileName="LsTraining201/MainPage.xaml.cs" Line="1" Column="1" />
+      <File FileName="LsTraining201/MainPage.xaml" Line="1" Column="1" />
+      <File FileName="LsTraining201/App.xaml.cs" Line="98" Column="1" />
+      <File FileName="LsTraining201.iOS/Main.cs" Line="17" Column="1" />
+      <File FileName="LsTraining201.iOS/Main.cs" Line="17" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="LsTraining201" expanded="True">
+            <Node name="LsTraining201" expanded="True">
+              <Node name="App.xaml" expanded="True" />
+              <Node name="MainPage.xaml" selected="True" />
+            </Node>
+            <Node name="LsTraining201.Android" expanded="True" />
+            <Node name="LsTraining201.iOS" expanded="True" />
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|iPhone" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.ItemProperties.LsTraining201.iOS PreferredExecutionTarget="MonoDevelop.IPhone.IPhoneDeviceTarget" />
+</Properties>
